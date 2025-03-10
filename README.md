@@ -2,6 +2,20 @@
 
 Fancy and over-engineered implementations of the classic FizzBuzz problem
 
+## Kotlin
+
+### Preparation
+
+Build the project, in the `kotlin/fizzbuzz` directory:
+
+```shell
+./gradlew build
+```
+
+### Implementation: Coroutines
+
+Implementations based on Kotlin's `couroutines` model with added random delays to make the process visible.
+
 ## Python
 
 ### Preparation
@@ -14,7 +28,7 @@ Activate `venv` in the `python` directory then install dependencies:
 pip install -r requirements.txt
 ```
 
-### Async Queues
+### Implementation: Async Queues
 
 Implementations based on `asyncio.Queue` with added random delays to make the process visible.
 
