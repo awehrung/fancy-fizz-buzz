@@ -166,5 +166,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-/kotlin/fizzbuzz/.gradle/
-/kotlin/fizzbuzz/.kotlin/
+
+# Kotlin
+/kotlin/**/.gradle/
+/kotlin/**/.kotlin/
