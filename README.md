@@ -46,7 +46,7 @@ Make sure Go is installed
 
 ### Content
 
-Implementation using Go's goroutines and channels with added delays to make the process visible.
+Implementations using Go's goroutines and channels with added delays to make the process visible.
 
 Each number is passed from one channel to the next, each channel is responsible for checking one divisor.
 
